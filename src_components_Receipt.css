@@ -1,0 +1,15 @@
+.receipt {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: #e9ecef;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.receipt h2 {
+  margin-bottom: 0.5rem;
+}
+
+.receipt p {
+  margin: 0;
+}
