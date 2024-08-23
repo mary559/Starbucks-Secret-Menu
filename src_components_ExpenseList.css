@@ -1,0 +1,13 @@
+.expense-list {
+  list-style: none;
+  padding: 0;
+}
+
+.expense-item {
+  padding: 1rem;
+  border-bottom: 1px solid #ced4da;
+}
+
+.expense-item:last-child {
+  border-bottom: none;
+}
