@@ -18,8 +18,8 @@ The Starbucks Secret Menu app is designed for coffee enthusiasts who want to exp
 - JSON for managing data.
 
 ## Author
-**Name:** Mary George  
-**Email:** mary564george@outlook.com  
+**Name:** **Mary George**  
+**Email:** **mary564george@outlook.com**  
 **Website:** Starbucks Secret Menu
 
 Mary George is a seasoned software developer with over 10 years of experience in web development. Known for his mastery of coding and his helping nature, Mary George enjoys working on projects that combine creativity and functionality. His deep knowledge of JavaScript and React.js allows him to create user-friendly applications that provide value to users.
