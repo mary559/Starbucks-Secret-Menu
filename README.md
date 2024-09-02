@@ -34,7 +34,7 @@ This application provides users with a collection of secret recipes, allowing th
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd StarbucksSecretMenu
+      cd [StarbucksSecretMenu](https://www.starbucks-secretmenu.com)
 
 3. **Install Dependencies:**
    ```bash
