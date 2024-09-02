@@ -21,7 +21,7 @@ This application provides users with a collection of secret recipes, allowing th
 ## Author
 - **Name**: Mary George  
 - **Email**: mary564george@outlook.com  
-- **Website**: Starbucks Secret Menu
+- **Website**: [Starbucks Secret Menu](https://www.starbucks-secretmenu.com)
 
 - Mary George is a seasoned software developer with over 10 years of experience in web development. Known for his mastery of coding and his helping nature.
 - Mary George enjoys working on projects that combine creativity and functionality.
@@ -34,7 +34,7 @@ This application provides users with a collection of secret recipes, allowing th
 
 2. **Navigate to the Project Directory:**
    ```bash
-      cd [StarbucksSecretMenu](https://www.starbucks-secretmenu.com)
+      cd StarbucksSecretMenu
 
 3. **Install Dependencies:**
    ```bash
